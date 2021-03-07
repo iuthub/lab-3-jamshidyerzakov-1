@@ -1,0 +1,44 @@
+.container {
+    border: 8px solid white;
+    background-color: white;
+    margin: 0 10%;
+}
+
+.heading {
+    background-color: #A8F0F0;
+    text-align: right;
+}
+
+#about {
+    font-size: 13pt;
+}
+
+.blog-section {
+    border: 3px solid #C2E9E9;
+    background-color: #E8FBFB;
+    padding: 5px;
+    margin: 12px 0 0;
+    overflow: auto;
+}
+
+img {
+    float: right;
+}
+
+.date {
+    border-bottom: 3px blue dashed;
+}
+
+body {
+    align-items: center;
+    background-image: url("./images/background-img.jpg");
+}
+
+.sidebar {
+    border: 8px solid #2b99a1;
+    margin-top: 12px;
+    padding: 12px;
+    width: 200px;
+    background-color: #A8F0F0;
+    float: left;
+}
